@@ -1,0 +1,254 @@
+Number of utterances,6164
+great but,1
+good but,0
+ok but,0
+not that great,0
+not that good,0
+it was not,0
+not all that,2
+fine but,0
+acceptable but,0
+great yet,0
+good yet,0
+ok yet,0
+fine yet,0
+acceptable yet,0
+Disqualifying the Positive,3
+i will not,1
+we will not ,0
+you will not,0
+they will not,0
+it will not,0
+that will not,0
+he will not,0
+she will not,0
+Fortune-telling,1
+worst,45
+best,64
+not important,0
+not count,0
+not matter,0
+no matter,6
+the only thing,6
+the one thing,1
+Magnification and Minimization,122
+i am a,4
+he is a,0
+she is a,0
+they are a,0
+it is a,10
+that is a,0
+sucks at,0
+suck at,0
+i never,15
+he never,2
+she never,0
+you never,2
+we never,3
+they never,0
+i am an,2
+he is an,0
+she is an,0
+they are an,0
+it is an,0
+that is an,0
+a burden,0
+a complete,2
+a completely,1
+a huge,9
+a loser,1
+a major,7
+a total,0
+a totally,0
+a weak,0
+an absolute,1
+an utter,0
+a bad,11
+a broken,0
+a damaged,0
+a helpless,0
+a hopeless,0
+an incompetent,0
+a toxic,0
+an ugly,1
+an undesirable,0
+an unlovable,0
+a worthless,0
+a horrible,0
+a terrible,0
+Labeling and mislabeling,71
+all me,0
+all my,16
+because i,30
+because my,5
+because of my,9
+because of me,0
+i am responsible,0
+blame me,0
+i caused,0
+i feel responsible,0
+all my doing,0
+all my fault,0
+my bad,1
+my responsibility,0
+Personalizing,61
+i see only,0
+all i see,0
+all i can see,0
+can only think,0
+nothing good,0
+nothing right,0
+completely bad,0
+completely wrong,0
+only the bad,0
+only the worst,0
+if i just,0
+if i only,0
+if it just,0
+if it only,0
+Mental Filtering,0
+everyone believes,0
+everyone knows,0
+everyone thinks,0
+everyone will believe,0
+everyone will know,0
+everyone will think,0
+nobody believes,0
+nobody knows,0
+nobody thinks,0
+nobody will believe,0
+nobody will know,0
+nobody will think,0
+he believes,1
+he knows,3
+he thinks,0
+he does not believe,0
+he does not know,0
+he does not think,0
+he will believe,0
+he will know,0
+he will think,0
+he will not believe,0
+he will not know,0
+he will not think,0
+she believes,0
+she knows,0
+she thinks,1
+she does not believe,0
+she does not know,0
+she does not think,0
+she will believe,0
+she will know,0
+she will think,0
+she will not believe,0
+she will not know,0
+she will not think,0
+they  believe,0
+they  know,0
+they  think,0
+they do not believe,0
+they do not know,0
+they do not think,0
+they will believe,0
+they will know,0
+they will think,0
+they will not believe,0
+they will not know,0
+they will not think,0
+we believe,1
+we know,3
+we think,2
+we do not believe,0
+we do not know,0
+we do not think,0
+we will believe,0
+we will know,0
+we will think,0
+we will not believe,0
+we will not know,0
+we will not think,0
+you believe,2
+you know,44
+you think,16
+you do not believe,0
+you do not know,1
+you do not think,0
+you will believe,0
+you will know,0
+you will think,0
+you will not believe,0
+you will not know,0
+you will not think,0
+Mindreading,74
+all of the time,0
+all of them,2
+all the time,11
+always happens,0
+always like,1
+happens every time,0
+completely,9
+no one ever,2
+nobody ever,1
+every single one of them,0
+every single one of you,0
+i always,6
+you always,0
+he always,0
+she always,0
+they always,0
+i am always,0
+you are always,0
+he is always,0
+she is always,0
+they are always,0
+Overgeneralizing,32
+should,89
+ought,0
+must,16
+have to,41
+has to,7
+Should statements,153
+only,114
+every,83
+everyone,63
+everybody,5
+everything,50
+everywhere,6
+always,66
+perfect,9
+the best,33
+all,298
+not a single,0
+no one,26
+nobody,12
+nothing,45
+nowhere,8
+never,112
+worthless,3
+the worst,29
+neither,4
+nor,4
+either or,0
+black or white,0
+ever,65
+Dichotomous Reasoning,1035
+will fail,0
+will go wrong,0
+will end,0
+will be impossible,0
+will not happen,0
+will be terrible,0
+will be horrible,0
+will be a catastrophe,0
+will be a disaster,0
+will never end,0
+will not end,0
+Catastrophizing,0
+but i feel,2
+since i feel,0
+because i feel,0
+but it feels,0
+since it feels,0
+because it feels,0
+still feels,0
+Emotional Reasoning,2
